@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rikisabo/leet-code/tree/master/0001-two-sum) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rikisabo/leet-code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1200-minimum-absolute-difference](https://github.com/rikisabo/leet-code/tree/master/1200-minimum-absolute-difference) |
 | [3719-longest-balanced-subarray-i](https://github.com/rikisabo/leet-code/tree/master/3719-longest-balanced-subarray-i) |
 ## Sorting
@@ -30,4 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/rikisabo/leet-code/tree/master/3719-longest-balanced-subarray-i) |
+## Two Pointers
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rikisabo/leet-code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rikisabo/leet-code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
