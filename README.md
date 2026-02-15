@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rikisabo/leet-code/tree/master/0001-two-sum) |
 | [1200-minimum-absolute-difference](https://github.com/rikisabo/leet-code/tree/master/1200-minimum-absolute-difference) |
 | [3719-longest-balanced-subarray-i](https://github.com/rikisabo/leet-code/tree/master/3719-longest-balanced-subarray-i) |
 ## Sorting
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rikisabo/leet-code/tree/master/0001-two-sum) |
 | [3719-longest-balanced-subarray-i](https://github.com/rikisabo/leet-code/tree/master/3719-longest-balanced-subarray-i) |
 ## Divide and Conquer
 |  |
