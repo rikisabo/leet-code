@@ -4,28 +4,16 @@ class Solution(object):
         :type x: int
         :rtype: bool
         """
-        if x<0:
+        if x < 0 or (x % 10 == 0 and x != 0):
             return False
-        if x>=0 and x<10:
-            return True
-        digits= len(str(abs(x)))
-       
 
+        rev = 0
+        while x > rev:
+            rev = rev * 10 + (x % 10)
+            x //= 10
 
-        s=str(abs(x))
-        half=digits//2
-
-        stack=[]
-        for ch in s[:half]:
-            stack.append(ch)
-        
-        if digits%2==1:
-            i=digits//2+1
-        else:
-            i=digits//2
-        for digit in s[i:]:
-            if digit!=stack.pop():
-                return False
-        return True
+        # לזוגי: x == rev
+        # לאי־זוגי: rev כולל ספרה אמצעית, אז משווים x == rev//10
+        return x == rev or x == rev // 10
 
             
