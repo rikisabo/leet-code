@@ -48,5 +48,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/rikisabo/leet-code/tree/master/0009-palindrome-number) |
 | [0523-continuous-subarray-sum](https://github.com/rikisabo/leet-code/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
