@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rikisabo/leet-code/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/rikisabo/leet-code/tree/master/0013-roman-to-integer) |
 | [0523-continuous-subarray-sum](https://github.com/rikisabo/leet-code/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/rikisabo/leet-code/tree/master/0560-subarray-sum-equals-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/rikisabo/leet-code/tree/master/3719-longest-balanced-subarray-i) |
@@ -49,5 +50,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/rikisabo/leet-code/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/rikisabo/leet-code/tree/master/0013-roman-to-integer) |
 | [0523-continuous-subarray-sum](https://github.com/rikisabo/leet-code/tree/master/0523-continuous-subarray-sum) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/rikisabo/leet-code/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
