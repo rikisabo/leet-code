@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/rikisabo/leet-code/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/rikisabo/leet-code/tree/master/0560-subarray-sum-equals-k) |
 | [1200-minimum-absolute-difference](https://github.com/rikisabo/leet-code/tree/master/1200-minimum-absolute-difference) |
+| [1980-find-unique-binary-string](https://github.com/rikisabo/leet-code/tree/master/1980-find-unique-binary-string) |
 | [3719-longest-balanced-subarray-i](https://github.com/rikisabo/leet-code/tree/master/3719-longest-balanced-subarray-i) |
 ## Sorting
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/rikisabo/leet-code/tree/master/0013-roman-to-integer) |
 | [0523-continuous-subarray-sum](https://github.com/rikisabo/leet-code/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/rikisabo/leet-code/tree/master/0560-subarray-sum-equals-k) |
+| [1980-find-unique-binary-string](https://github.com/rikisabo/leet-code/tree/master/1980-find-unique-binary-string) |
 | [3719-longest-balanced-subarray-i](https://github.com/rikisabo/leet-code/tree/master/3719-longest-balanced-subarray-i) |
 ## Divide and Conquer
 |  |
@@ -58,8 +60,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/rikisabo/leet-code/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/rikisabo/leet-code/tree/master/0014-longest-common-prefix) |
+| [1980-find-unique-binary-string](https://github.com/rikisabo/leet-code/tree/master/1980-find-unique-binary-string) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/rikisabo/leet-code/tree/master/0014-longest-common-prefix) |
+## Backtracking
+|  |
+| ------- |
+| [1980-find-unique-binary-string](https://github.com/rikisabo/leet-code/tree/master/1980-find-unique-binary-string) |
 <!---LeetCode Topics End-->
