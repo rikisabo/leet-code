@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/rikisabo/leet-code/tree/master/1200-minimum-absolute-difference) |
 | [1980-find-unique-binary-string](https://github.com/rikisabo/leet-code/tree/master/1980-find-unique-binary-string) |
 | [3719-longest-balanced-subarray-i](https://github.com/rikisabo/leet-code/tree/master/3719-longest-balanced-subarray-i) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/rikisabo/leet-code/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Sorting
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/rikisabo/leet-code/tree/master/0560-subarray-sum-equals-k) |
 | [1980-find-unique-binary-string](https://github.com/rikisabo/leet-code/tree/master/1980-find-unique-binary-string) |
 | [3719-longest-balanced-subarray-i](https://github.com/rikisabo/leet-code/tree/master/3719-longest-balanced-subarray-i) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/rikisabo/leet-code/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Divide and Conquer
 |  |
 | ------- |
