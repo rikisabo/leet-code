@@ -1,7 +1,16 @@
-import bisect
-
 class Solution:
-    def searchInsert(self, nums: list[int], target: int) -> int:
-        # הפונקציה bisect_left מוצאת את האינדקס שבו target צריך להיכנס 
-        # כדי לשמור על המערך ממוין. אם הוא כבר קיים, היא תחזיר את האינדקס שלו.
-        return bisect.bisect_left(nums, target)
+    def searchInsert(self, nums: List[int], target: int) -> int:
+        l=0
+        r=len(nums)-1
+
+        while l<=r:
+            mid =(r+l)//2
+            if nums[mid] == target:
+                return mid
+            if nums[mid] < target:
+                l=mid+1
+            else:
+                r=mid-1
+        return l
+
+        
