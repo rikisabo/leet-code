@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/rikisabo/leet-code/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/rikisabo/leet-code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/rikisabo/leet-code/tree/master/0014-longest-common-prefix) |
+| [0035-search-insert-position](https://github.com/rikisabo/leet-code/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rikisabo/leet-code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0523-continuous-subarray-sum](https://github.com/rikisabo/leet-code/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/rikisabo/leet-code/tree/master/0560-subarray-sum-equals-k) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rikisabo/leet-code/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/rikisabo/leet-code/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rikisabo/leet-code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Math
 |  |
