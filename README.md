@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/rikisabo/leet-code/tree/master/0560-subarray-sum-equals-k) |
 | [1200-minimum-absolute-difference](https://github.com/rikisabo/leet-code/tree/master/1200-minimum-absolute-difference) |
 | [1980-find-unique-binary-string](https://github.com/rikisabo/leet-code/tree/master/1980-find-unique-binary-string) |
+| [2540-minimum-common-value](https://github.com/rikisabo/leet-code/tree/master/2540-minimum-common-value) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/rikisabo/leet-code/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3719-longest-balanced-subarray-i](https://github.com/rikisabo/leet-code/tree/master/3719-longest-balanced-subarray-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/rikisabo/leet-code/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/rikisabo/leet-code/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/rikisabo/leet-code/tree/master/0560-subarray-sum-equals-k) |
 | [1980-find-unique-binary-string](https://github.com/rikisabo/leet-code/tree/master/1980-find-unique-binary-string) |
+| [2540-minimum-common-value](https://github.com/rikisabo/leet-code/tree/master/2540-minimum-common-value) |
 | [3719-longest-balanced-subarray-i](https://github.com/rikisabo/leet-code/tree/master/3719-longest-balanced-subarray-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/rikisabo/leet-code/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/rikisabo/leet-code/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -54,12 +56,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rikisabo/leet-code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [2540-minimum-common-value](https://github.com/rikisabo/leet-code/tree/master/2540-minimum-common-value) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rikisabo/leet-code/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/rikisabo/leet-code/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rikisabo/leet-code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [2540-minimum-common-value](https://github.com/rikisabo/leet-code/tree/master/2540-minimum-common-value) |
 ## Math
 |  |
 | ------- |
